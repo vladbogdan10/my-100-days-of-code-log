@@ -21,3 +21,32 @@ The log of my #100DaysOfCode challenge. Started on [September 14, Thursday, 2017
 **Link**: 
 [Twitch Streamers](https://vladbogdan10.github.io/twitch-streamers/)
 
+
+### Day 3: September 16, 2017 
+
+**Progress**: I'm still on the Twitch project app, but it's starting to look like I wanted to.
+
+**Thoughts**: It was a bit frustrating today because it didn't look good enough on the phone and I had to change some stuff.
+
+**Link**: 
+[Twitch Streamers](https://vladbogdan10.github.io/twitch-streamers/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
