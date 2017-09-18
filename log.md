@@ -32,7 +32,7 @@ The log of my #100DaysOfCode challenge. Started on [September 14, Thursday, 2017
 [Twitch Streamers](https://vladbogdan10.github.io/twitch-streamers/)
 
 
-### Day 3: September 16, 2017 
+### Day 4: September 17, 2017 
 
 **Progress**: Today I've finished the UI for the Twitch app.
 
@@ -42,7 +42,14 @@ The log of my #100DaysOfCode challenge. Started on [September 14, Thursday, 2017
 [Twitch Streamers](https://vladbogdan10.github.io/twitch-streamers/)
 
 
+### Day 5: September 18, 2017 
 
+**Progress**: I've spent almost all day working on my Twitch app and it's still not finished, but tomorrow it's gonna be for sure😋.
+
+**Thoughts**: Everything went according to plan :).
+
+**Link**: 
+[Twitch Streamers](https://vladbogdan10.github.io/twitch-streamers/)
 
 
 
