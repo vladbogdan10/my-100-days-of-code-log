@@ -52,6 +52,16 @@ The log of my #100DaysOfCode challenge. Started on [September 14, Thursday, 2017
 [Twitch Streamers](https://vladbogdan10.github.io/twitch-streamers/)
 
 
+### Day 6: September 19, 2017 
+
+**Progress**: Done! Finished my Twitch project! Took me longer than expected, but it turned out nicely.
+
+**Thoughts**: I still need to optimize some of the js code I wrote.
+
+**Link**: 
+[Twitch Streamers](https://vladbogdan10.github.io/twitch-streamers/)
+
+
 
 
 
