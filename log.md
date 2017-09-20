@@ -62,6 +62,16 @@ The log of my #100DaysOfCode challenge. Started on [September 14, Thursday, 2017
 [Twitch Streamers](https://vladbogdan10.github.io/twitch-streamers/)
 
 
+### Day : September 20, 2017 
+
+**Progress**: Today I've decided to change my IDE from Brackets to Sublime and I've made a lot of research to set it up for my needs
+
+**Thoughts**: I'm gonna miss some features from Brackets.
+
+**Link**: 
+
+
+
 
 
 
