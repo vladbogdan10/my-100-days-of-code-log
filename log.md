@@ -75,7 +75,7 @@ The log of my #100DaysOfCode challenge. Started on [September 14, Thursday, 2017
 
 **Progress**: Today I wanted to implement a preloader to my weather app; done it but it needs some final touches.
 
-**Thoughts**: I've tought it's gonna be harder, but it was not :D.
+**Thoughts**: I've thought it's gonna be harder, but it was not :D.
 
 **Link**: [Weather app](https://vladbogdan10.github.io/weather-app/)
 
