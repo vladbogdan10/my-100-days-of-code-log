@@ -80,6 +80,15 @@ The log of my #100DaysOfCode challenge. Started on [September 14, Thursday, 2017
 **Link**: [Weather app](https://vladbogdan10.github.io/weather-app/)
 
 
+### Day 9: September 21, 2017 
+
+**Progress**: I've implemented page preloader to my weather app and continued with the Complete Developer Course 2.0 by Rob Precival, Udemy
+
+**Thoughts**: PHP is pretty awesome, can't wait to learn more :D.
+
+**Link**: [Weather app](https://vladbogdan10.github.io/weather-app/)
+
+
 
 
 
