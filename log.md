@@ -98,7 +98,13 @@ The log of my #100DaysOfCode challenge. Started on [September 14, Thursday, 2017
 **Link**: [Weather app](https://vladbogdan10.github.io/weather-app/)
 
 
+### Day 11: September 24, 2017 
 
+**Progress**: Done some PHP in the morning, learned about $GET and $POST variables and played Neverwinter almost all day :)). 
+
+**Thoughts**: ---
+
+**Link**:
 
 
 
