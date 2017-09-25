@@ -107,6 +107,15 @@ The log of my #100DaysOfCode challenge. Started on [September 14, Thursday, 2017
 **Link**:
 
 
+### Day 12: September 25, 2017 
+
+**Progress**: Been a bit busy today and I only manage to do some debugging and for some strange reason, I quite enjoy doing it. 
+
+**Thoughts**: ---
+
+**Link**:
+
+
 
 
 
