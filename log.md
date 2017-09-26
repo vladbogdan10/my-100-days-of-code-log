@@ -116,6 +116,15 @@ The log of my #100DaysOfCode challenge. Started on [September 14, Thursday, 2017
 **Link**:
 
 
+### Day 13: September 26, 2017 
+
+**Progress**: Did PHP all day - tomorrow I'll finish with the PHP section and start with MySQL. 
+
+**Thoughts**: I've done some cool stuff today, like sending myself emails, validating forms with PHP and jQuery, and stared a Weather Scraper with PHP. 
+
+**Link**: [Weather Scraper](http://vbcompletewebdevcourse-com.stackstaging.com/6-php/weather-scraper.php)
+
+
 
 
 
