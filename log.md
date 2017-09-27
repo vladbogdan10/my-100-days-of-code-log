@@ -125,6 +125,15 @@ The log of my #100DaysOfCode challenge. Started on [September 14, Thursday, 2017
 **Link**: [Weather Scraper](http://vbcompletewebdevcourse-com.stackstaging.com/6-php/weather-scraper.php)
 
 
+### Day 14: September 27, 2017 
+
+**Progress**: Today I've started the MySQL section from  Complete Web Developer Course 2.0 by Rob Percival, done lot's of cool stuff. Can't wait tomorrow.
+
+**Thoughts**: --- 
+
+**Link**: 
+
+
 
 
 
