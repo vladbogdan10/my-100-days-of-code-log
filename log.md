@@ -134,11 +134,20 @@ The log of my #100DaysOfCode challenge. Started on [September 14, Thursday, 2017
 **Link**: 
 
 
-### Day 14: September 28, 2017 
+### Day 15: September 28, 2017 
 
 **Progress**: I Finished MySQL section today, I only have to do a small project called "Secret Diary" with login, database, and all that cool stuff.
 
 **Thoughts**: Serverside language + database = really powerfull :D.
+
+**Link**:
+
+
+### Day 16: September 29, 2017 
+
+**Progress**: I finished the mini-project "Secret Diary" and I learned how a serverside language works together with a database and much more - really powerfull.
+
+**Thoughts**: ---
 
 **Link**:
 
