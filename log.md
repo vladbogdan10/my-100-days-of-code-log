@@ -152,6 +152,15 @@ The log of my #100DaysOfCode challenge. Started on [September 14, Thursday, 2017
 **Link**:
 
 
+### Day 17: September 30, 2017 
+
+**Progress**: I did not do much today, but I managed to do a bit from the API section.
+
+**Thoughts**: ---
+
+**Link**:
+
+
 
 
 
