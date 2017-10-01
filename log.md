@@ -161,6 +161,15 @@ The log of my #100DaysOfCode challenge. Started on [September 14, Thursday, 2017
 **Link**:
 
 
+### Day 18: October 1, 2017 
+
+**Progress**: Did more from the API section and learnd about the Google Maps API. I like working with APIs.
+
+**Thoughts**: ---
+
+**Link**:
+
+
 
 
 
