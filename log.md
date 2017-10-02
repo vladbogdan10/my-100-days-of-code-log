@@ -170,6 +170,15 @@ The log of my #100DaysOfCode challenge. Started on [September 14, Thursday, 2017
 **Link**:
 
 
+### Day 19: October 2, 2017 
+
+**Progress**: I did 1 hour from the API section today because I was really busy and didn't have time to do much. 
+
+**Thoughts**: ---
+
+**Link**:
+
+
 
 
 
