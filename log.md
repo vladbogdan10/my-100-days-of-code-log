@@ -179,6 +179,15 @@ The log of my #100DaysOfCode challenge. Started on [September 14, Thursday, 2017
 **Link**:
 
 
+### Day 20: October 3, 2017 
+
+**Progress**: Yey! Finished the API section today and started the Mobile Apps section, using App.js. I really like that I can create mobile apps with JS.
+
+**Thoughts**: Twitter API is really nice and complex. :D
+
+**Link**:
+
+
 
 
 
