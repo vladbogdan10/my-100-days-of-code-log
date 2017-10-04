@@ -188,6 +188,16 @@ The log of my #100DaysOfCode challenge. Started on [September 14, Thursday, 2017
 **Link**:
 
 
+### Day 21: October 4, 2017 
+
+**Progress**: Today I did a small email client as a final challenge for the Mobile Apps section.
+
+
+**Thoughts**: It was quite exciting.
+
+**Link**:
+
+
 
 
 
