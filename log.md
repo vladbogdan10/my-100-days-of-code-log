@@ -198,6 +198,17 @@ The log of my #100DaysOfCode challenge. Started on [September 14, Thursday, 2017
 **Link**:
 
 
+### Day 22-23: October 5-6, 2017 
+
+**Progress**: Done more from the Complete Web Developer Course 2.0 and learned how to upload an Application on the store (Android/iOS). Started the new section HTML5 &
+CSS3 special features.
+
+
+**Thoughts**: I love that I can do mobile apps using javascript :D.
+
+**Link**:
+
+
 
 
 
