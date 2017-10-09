@@ -209,6 +209,19 @@ CSS3 special features.
 **Link**:
 
 
+### Day 24-25-26: October 7-8-9, 2017 
+
+**Progress**: I worked hard this weekend and finished the Complete Web Developer Course 2.0.
+
+
+**Thoughts**: What I've learned from this course:
+HTML5, CSS3, JavaScript, jQuery, Bootstrap 4, Wordpress, PHP, MySQL, APIs, Mobile Apps, Python.
+
+Now I feel confident that I can design and develop a complete website/app frontend and backend with what I've learned from this course. Now I'm a step closer to be a fullstack developer.
+
+**Link**: [Certificate](https://www.udemy.com/certificate/UC-J6YZA3YS/)
+
+
 
 
 
