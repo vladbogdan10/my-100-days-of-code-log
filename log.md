@@ -222,6 +222,26 @@ Now I feel confident that I can design and develop a complete website/app fronte
 **Link**: [Certificate](https://www.udemy.com/certificate/UC-J6YZA3YS/)
 
 
+### Day 27-28: October 10-11, 2017 
+
+**Progress**: Calculator(I'll write later)
+
+
+**Thoughts**: 
+
+**Link**: 
+
+
+### Day 9: October 12, 2017 
+
+**Progress**: Calculator(I'll write later)
+
+
+**Thoughts**: 
+
+**Link**: 
+
+
 
 
 
