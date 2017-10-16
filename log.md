@@ -232,12 +232,32 @@ Now I feel confident that I can design and develop a complete website/app fronte
 **Link**: 
 
 
-### Day 9: October 12, 2017 
+### Day 29: October 12, 2017 
 
 **Progress**: Calculator(I'll write later)
 
 
 **Thoughts**: 
+
+**Link**: 
+
+
+### Day 30: October 13, 2017 
+
+**Progress**: Calculator(I'll write later)
+
+
+**Thoughts**: 
+
+**Link**: 
+
+
+### Day 31-33: October 14-16, 2017 
+
+**Progress**: Calculator(I'll write later)
+
+
+**Thoughts**: Tomorrow I will write (pinky-swear) :D
 
 **Link**: 
 
