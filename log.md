@@ -224,40 +224,50 @@ Now I feel confident that I can design and develop a complete website/app fronte
 
 ### Day 27-28: October 10-11, 2017 
 
-**Progress**: Calculator(I'll write later)
+**Progress**: Started and finished the UI for the Javascript Calculator project for the freeCodeCamp Advanced Frontend Development Projects section.
 
 
-**Thoughts**: 
+**Thoughts**: First time when I use CSS Flexbox and I really like it. I still have to learn more about Flexbox but, until now I think it's very powerful.
 
-**Link**: 
+**Link**: [JS Calculator](https://vladbogdan10.github.io/javascript-calculator/)
 
 
 ### Day 29: October 12, 2017 
 
-**Progress**: Calculator(I'll write later)
+**Progress**: Today I started coding the logic for the JS Calculator.
 
 
-**Thoughts**: 
+**Thoughts**: I struggled a bit because soon I realized that I forgot some javascript concepts. Lately I've learned a lot of new web related stuff.
 
-**Link**: 
+**Link**: [JS Calculator](https://vladbogdan10.github.io/javascript-calculator/)
 
 
 ### Day 30: October 13, 2017 
 
-**Progress**: Calculator(I'll write later)
+**Progress**: Yey, I did it, finished the JS calculator today. Though I still have some things to fix, but nevertheless, it's done.
 
 
-**Thoughts**: 
+**Thoughts**: I love that feeling when you finish a project. It was hard and easy on the same time but I was happy to work on this project, because I remembered some concepts that I forgot.
 
-**Link**: 
+**Link**: [JS Calculator](https://vladbogdan10.github.io/javascript-calculator/)
 
 
 ### Day 31-33: October 14-16, 2017 
 
-**Progress**: Calculator(I'll write later)
+**Progress**: Fixed the bugs on my JS calculator project. 
 
 
-**Thoughts**: Tomorrow I will write (pinky-swear) :D
+**Thoughts**: Didn't do much this weekend 'cause the weather was too great to stay home.
+
+**Link**: [JS Calculator](https://vladbogdan10.github.io/javascript-calculator/)
+
+
+### Day 34: October 17, 2017 
+
+**Progress**: Changed some code for 2 old projects today. Can't believe how much I improved over the time.
+
+
+**Thoughts**: I realize that I didn't understand CSS very well at that time.
 
 **Link**: 
 
