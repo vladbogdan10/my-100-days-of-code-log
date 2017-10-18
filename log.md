@@ -272,6 +272,16 @@ Now I feel confident that I can design and develop a complete website/app fronte
 **Link**: 
 
 
+### Day 35: October 18, 2017 
+
+**Progress**: I started learning SASS today and I was like, why didn't I learn it earlier. It really enhances the CSS. So far I love it.
+
+
+**Thoughts**: It's really nice that it brings programming logic to CSS. 
+
+**Link**: 
+
+
 
 
 
