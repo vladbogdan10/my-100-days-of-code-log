@@ -282,6 +282,18 @@ Now I feel confident that I can design and develop a complete website/app fronte
 **Link**: 
 
 
+### Day 36-37: October 20-21, 2017 
+
+**Progress**: Yesterday I learned about functions and loops in SASS😁 and today attended a small #freeCodeCamp meetup in München.
+
+
+**Thoughts**: I can't believe how much logic SASS brings to CSS, make code so much more readable and easier to maintain!
+
+It was really nice to meet new people and get the chance to talk about the things we have in common. 
+
+**Link**: 
+
+
 
 
 
