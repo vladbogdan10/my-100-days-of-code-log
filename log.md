@@ -304,6 +304,16 @@ It was really nice to meet new people and get the chance to talk about the thing
 **Link**: 
 
 
+### Day 38: October 22, 2017 
+
+**Progress**: Today I played a little with task runners and I still can't decide if I want to use Gulp or just npm.
+
+
+**Thoughts**: ---
+
+**Link**: 
+
+
 
 
 
