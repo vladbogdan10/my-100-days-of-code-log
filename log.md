@@ -325,6 +325,16 @@ Managed to do some Sass today though.
 **Link**: 
 
 
+### Day 41: October 27, 2017 
+
+**Progress**: Today I finished the Sass section from Codecademy. I really love SassCSS. Can't wait to start using it in projects😊.
+
+
+**Thoughts**: ---
+
+**Link**: 
+
+
 
 
 
