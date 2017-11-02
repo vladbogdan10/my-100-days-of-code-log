@@ -335,6 +335,16 @@ Managed to do some Sass today though.
 **Link**: 
 
 
+### Day 42-43: November 1-2, 2017 
+
+**Progress**: Started working on my portfolio website. Worked a few days on the design and yesterday I settled for something.
+
+
+**Thoughts**: ---
+
+**Link**: https://github.com/vladbogdan10/my-portfolio-website
+
+
 
 
 
