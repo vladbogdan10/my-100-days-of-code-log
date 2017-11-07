@@ -340,7 +340,17 @@ Managed to do some Sass today though.
 **Progress**: Started working on my portfolio website. Worked a few days on the design and yesterday I settled for something.
 
 
-**Thoughts**: ---
+**Thoughts**: I'll write something later.
+
+**Link**: https://github.com/vladbogdan10/my-portfolio-website
+
+
+### Day 44-48: November 3-7, 2017 
+
+**Progress**: Lately I didn't have that much time but I've still worked on my portfolio website. I like how it looks so far😊.
+
+
+**Thoughts**: I'll write something later.
 
 **Link**: https://github.com/vladbogdan10/my-portfolio-website
 
